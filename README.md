@@ -66,4 +66,5 @@
 * mybatis层的分表操作, 借助org.shardbatis包的com.google.code.shardbatis.plugin.ShardPlugin
 * 完成主备操作, 借助org.apache.curator包选择zk leader
 
+这是一个测试
 
